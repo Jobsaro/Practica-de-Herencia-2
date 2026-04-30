@@ -1,8 +1,0 @@
-"# Lab-4-Abstract---Exception" 
-"# BATTLESHIP-DINAMIC" 
-"# BATTLESHIP-DINAMIC" 
-"# BATTLESHIP-DINAMIC" 
-"# BATTLESHIP-DINAMIC" 
-"# EXAMENI" 
-"# Practica-de-Herencia" 
-"# Practica-de-Herencia-2" 
